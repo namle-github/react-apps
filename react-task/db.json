@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Interview",
+      "date": "Jun 26 at 8:00am",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Study new vocab",
+      "date": "Jun 17 at 8:00am",
+      "reminder": true
+    },
+    {
+      "text": "Eat",
+      "date": "Jun 19",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Task",
+      "date": "Time and Date",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Cook",
+      "date": "Jun 20",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Cook",
+      "date": "Jun12",
+      "reminder": false,
+      "id": 7
+    }
+  ]
+}
